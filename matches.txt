@@ -1,0 +1,13 @@
+Barcelone,Bayern Munich,1,2
+Milan,PSV Eindhoven,0,2
+Manchester City,Napoli,0,4
+Internazionale,Milan,2,3
+Borussia Dortmund,Galatasaray,3,1
+Paris Saint-Germain,Arsenal,6,1
+Juventus,Club Atlético de Madrid,4,4
+Porto,Liverpool,2,6
+Manchester City,Real Madrid,4,2
+Manchester United,Real Madrid,2,1
+Tottenham Hotspur,Bayer 04,1,2
+Newcastle United,Liverpool,2,4
+Arsenal,Barcelone,2,1
